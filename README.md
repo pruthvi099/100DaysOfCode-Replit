@@ -22,10 +22,10 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 ## 🗓️ Daily Logs
 
-| Day | Summary | Link |
-|-----|---------|------|
+| Day   | Summary                     | Link              |
+|-------|-----------------------------|                   | 
 | Day 1 | Hello World & Python Basics | [Day01](./Day01/) |
-<!-- Add more days as you go -->
+| Day 2 | User Input & Variable       | [Day02](./Day02/) |
 
 ---
 
@@ -46,7 +46,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 ## 🌐 Connect With Me
 
-- 🧵 Threads: [@p_r_u_t_h_v_i_0_9](https://www.threads.com/@p_r_u_t_h_v_i_0_9)
+- 🧵 Threads: [@p_r_u_t_h_v_i_0_9](https://www.threads.com/@iampruthvi_09)
 - 🧑‍💻 GitHub: [pruthvi099](https://github.com/pruthvi099)
 
 
