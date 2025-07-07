@@ -15,7 +15,7 @@
 
 ## 💡 What I Learned
 
-- Take input from user and store in variables:
+-Concatenate with variables
   ```python
    myName = input("What's your name? ")
    myLunch = input("What are you having for lunch? ")
