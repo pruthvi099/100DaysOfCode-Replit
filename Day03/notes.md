@@ -1,6 +1,6 @@
-# Day 2 – 100DaysOfCode
+# Day 3 – 100DaysOfCode
 
-📅 Date: 2025-07-06 
+📅 Date: 2025-07-07
 🛠️ Project/Topic: Python concatenation
 
 ---
