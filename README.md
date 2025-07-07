@@ -13,9 +13,9 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 ## 🔥 About the Challenge
 
-- ⏳ Duration: 100 Days
-- 📅 Start Date: **July 4, 2025**
-- 💡 Goal: Become a Full Stack Python Developer
+- ⏳ Duration: 100 Days  
+- 📅 Start Date: **July 4, 2025**  
+- 💡 Goal: Become a Full Stack Python Developer  
 - 💻 Platform: [Replit](https://replit.com/@p_r_u_t_h_v_i_0_9)
 
 ---
@@ -23,9 +23,10 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 ## 🗓️ Daily Logs
 
 | Day   | Summary                     | Link              |
-|-------|-----------------------------|                   | 
+|-------|-----------------------------|-------------------|
 | Day 1 | Hello World & Python Basics | [Day01](./Day01/) |
-| Day 2 | User Input & Variable       | [Day02](./Day02/) |
+| Day 2 | User Input & Variables      | [Day02](./Day02/) |
+| Day 3 | Conditionals & If-Else      | [Day03](./Day03/) |
 
 ---
 
@@ -33,7 +34,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </p>
 
 ---
@@ -49,8 +50,6 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 - 🧵 Threads: [@p_r_u_t_h_v_i_0_9](https://www.threads.com/@iampruthvi_09)
 - 🧑‍💻 GitHub: [pruthvi099](https://github.com/pruthvi099)
 
-
 ---
 
-> 💬 _"Consistency over perfection. Just show up and build daily."_  
-
+> 💬 _"Consistency over perfection. Just show up and build daily."_
