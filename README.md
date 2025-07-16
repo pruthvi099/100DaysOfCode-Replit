@@ -22,10 +22,15 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 ## 🗓️ Daily Logs
 
-| Day   | Summary                     | Link              |
-|-------|-----------------------------|                   | 
-| Day 1 | Hello World & Python Basics | [Day01](./Day01/) |
-| Day 2 | User Input & Variable       | [Day02](./Day02/) |
+| Day   | Summary                                | Link              |
+|-------|----------------------------------------|-------------------| 
+| Day 1 | Hello World & Python Basics            | [Day01](./Day01/) |
+| Day 2 | User Input & Variables                 | [Day02](./Day02/) |
+| Day 3 | Adventure Story Generator (f-strings)  | [Day03](./Day03/) |
+| Day 4 | Colored Text Adventure Simulator       | [Day04](./Day04/) |
+| Day 5 | Who Am I? Guessing Game & `elif`       | [Day05](./Day05/) |
+| Day 6 | Secure Login System (`if-elif-else`)   | [Day06](./Day06/) |
+| Day 7 | Nested `if` Statements - TV Show Game  | [Day07](./Day07/) |
 
 ---
 
