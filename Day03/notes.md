@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Day 3 – 100DaysOfCode
+=======
+# Day 3-100DaysOfCode
+>>>>>>> ec303b0 (Day456)
 
 📅 Date: 2025-07-07
 🛠️ Project/Topic: Python concatenation

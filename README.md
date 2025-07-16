@@ -23,10 +23,9 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 ## 🗓️ Daily Logs
 
 | Day   | Summary                     | Link              |
-|-------|-----------------------------|-------------------|
+|-------|-----------------------------|                   | 
 | Day 1 | Hello World & Python Basics | [Day01](./Day01/) |
-| Day 2 | User Input & Variables      | [Day02](./Day02/) |
-| Day 3 | Conditionals & If-Else      | [Day03](./Day03/) |
+| Day 2 | User Input & Variable       | [Day02](./Day02/) |
 
 ---
 
