@@ -31,6 +31,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day 5 | Who Am I? Guessing Game & `elif`       | [Day05](./Day05/) |
 | Day 6 | Secure Login System (`if-elif-else`)   | [Day06](./Day06/) |
 | Day 7 | Nested `if` Statements - TV Show Game  | [Day07](./Day07/) |
+| Day 8 | Daily Affirmation Generator (Nested if)  | [Day08](./Day08/) |
 
 ---
 
