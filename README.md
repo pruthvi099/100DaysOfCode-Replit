@@ -1,27 +1,26 @@
 # 🧠 100 Days of Code – Replit Challenge
 
-[![100DaysOfCode](https://img.shields.io/badge/-100DaysOfCode-black?style=flat-square\&logo=python\&logoColor=white)](https://www.100daysofcode.com/)
-[![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square\&logo=replit\&logoColor=white)](https://replit.com/@p_r_u_t_h_v_i_0_9)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/pruthvi099)
+[![100DaysOfCode](https://img.shields.io/badge/-100DaysOfCode-black?style=flat-square&logo=python&logoColor=white)](https://www.100daysofcode.com/)
+[![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@p_r_u_t_h_v_i_0_9)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pruthvi099)
 
 ---
 
-Welcome to my **#100DaysOfCode** journey!
+Welcome to my **#100DaysOfCode** journey!  
 I'm using **Replit**, **Python**, and other tools to build and learn every day with the goal of becoming a **Full Stack Python Developer**.
 
 ---
 
 ## 🔥 About the Challenge
 
-* ⏳ Duration: 100 Days
-* 📅 Start Date: **July 4, 2025**
-* 💡 Goal: Become a Full Stack Python Developer
+* ⏳ Duration: 100 Days  
+* 📅 Start Date: **July 4, 2025**  
+* 💡 Goal: Become a Full Stack Python Developer  
 * 💻 Platform: [Replit](https://replit.com/@p_r_u_t_h_v_i_0_9)
 
 ---
 
 ## 🗓️ Daily Logs
-
 
 | Day   | Summary                                      | Link              |
 |-------|----------------------------------------------|-------------------| 
@@ -35,6 +34,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day 8 | Daily Affirmation Generator (Nested if)      | [Day08](./Day08/) |
 | Day 9 | Type Casting: `int()` vs `float()`           | [Day09](./Day09/) |
 | Day10 | Arithmetic Operators & Code Practice         | [Day10](./Day10/) |
+| Day11 | Leap Year Checker & Conditional Statements   | [Day11](./Day11/) |
 
 ---
 
@@ -55,7 +55,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 ## 🌐 Connect With Me
 
-* 🧵 Threads: [@p\_r\_u\_t\_h\_v\_i\_0\_9](https://www.threads.com/@iampruthvi_09)
+* 🧵 Threads: [@p_r_u_t_h_v_i_0_9](https://www.threads.com/@iampruthvi_09)
 * 🧑‍💻 GitHub: [pruthvi099](https://github.com/pruthvi099)
 
 ---
