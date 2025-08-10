@@ -35,7 +35,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day 9 | Type Casting: `int()` vs `float()`           | [Day09](./Day09/) |
 | Day10 | Arithmetic Operators & Code Practice         | [Day10](./Day10/) |
 | Day11 | Leap Year Checker & Conditional Statements   | [Day11](./Day11/) |
-
+| Day12 | Debugging & Fixing Errors (Quiz Program)     | [Day12](./Day12/) |
 ---
 
 ## 🧰 Tech Stack
