@@ -37,6 +37,8 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day11 | Leap Year Checker & Conditional Statements   | [Day11](./Day11/) |
 | Day12 | Debugging & Fixing Errors (Quiz Program)     | [Day12](./Day12/) |
 | Day13 | Grade Generator                              | [Day13](./Day13/) |
+| Day14 | Rock, Paper, Scissors (2-Player Edition)     | [Day14](./Day14/) |
+| Day15 | Adding Loop in the Game                      | [Day15](./Day15/) |
 ---
 
 ## 🧰 Tech Stack
