@@ -39,6 +39,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day13 | Grade Generator                              | [Day13](./Day13/) |
 | Day14 | Rock, Paper, Scissors (2-Player Edition)     | [Day14](./Day14/) |
 | Day15 | Adding Loop in the Game                      | [Day15](./Day15/) |
+| Day16 | While Loop with Exit Condition               | [Day16](./Day16/) |
 ---
 
 ## 🧰 Tech Stack
