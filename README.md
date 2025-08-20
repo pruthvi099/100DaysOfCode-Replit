@@ -40,6 +40,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day14 | Rock, Paper, Scissors (2-Player Edition)     | [Day14](./Day14/) |
 | Day15 | Adding Loop in the Game                      | [Day15](./Day15/) |
 | Day16 | While Loop with Exit Condition               | [Day16](./Day16/) |
+| Day17 | Corridor Adventure with While Loops          | [Day17](./Day17/) |
 ---
 
 ## 🧰 Tech Stack
