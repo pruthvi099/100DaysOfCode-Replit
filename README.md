@@ -41,6 +41,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day15 | Adding Loop in the Game                      | [Day15](./Day15/) |
 | Day16 | While Loop with Exit Condition               | [Day16](./Day16/) |
 | Day17 | Corridor Adventure with While Loops          | [Day17](./Day17/) |
+| Day18 | Guess the Number                             | [Day18](./Day18/) |
 ---
 
 ## 🧰 Tech Stack
