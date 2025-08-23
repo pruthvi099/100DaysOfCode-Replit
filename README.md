@@ -11,9 +11,9 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 
 ---
 
-## 🔥 About the Challenge
+## 🔥 About the Challenge. 
 
-* ⏳ Duration: 100 Days  
+* ⏳ Duration: 100 Days.   
 * 📅 Start Date: **July 4, 2025**  
 * 💡 Goal: Become a Full Stack Python Developer  
 * 💻 Platform: [Replit](https://replit.com/@p_r_u_t_h_v_i_0_9)
