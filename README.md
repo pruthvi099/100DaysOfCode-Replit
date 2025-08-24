@@ -43,6 +43,7 @@ I'm using **Replit**, **Python**, and other tools to build and learn every day w
 | Day17 | Corridor Adventure with While Loops          | [Day17](./Day17/) |
 | Day18 | Guess the Number                             | [Day18](./Day18/) |
 | Day19 | Loan Calculator with For Loop                | [Day19](./Day19/) |
+| Day20 | List Generator                               | [Day20](./Day20/) |
 ---
 
 ## 🧰 Tech Stack
